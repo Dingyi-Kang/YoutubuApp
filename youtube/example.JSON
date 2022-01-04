@@ -1,0 +1,179 @@
+
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "ii_Ac9BvJNza4fUVnQBATNGIGYE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S6s1204pFCnWjBkBwHpDnqQp_Fc",
+      "id": "UEw1UGRjaTNLakxOOXZlX0h3SU9tYUt2TXVsemVrVVB5NC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-07-20T02:50:52Z",
+        "channelId": "UCoZ_SFiEKv5PTGkfW2kJ-2Q",
+        "title": "【罗翔直播课堂】品读关于苏格拉底的《申辩论》",
+        "description": "期待下次和同学们在直播间再见。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ws7hsIRGcvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ws7hsIRGcvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ws7hsIRGcvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ws7hsIRGcvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Dingyi Kang",
+        "playlistId": "PL5Pdci3KjLN9ve_HwIOmaKvMulzekUPy4",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ws7hsIRGcvY"
+        },
+        "videoOwnerChannelTitle": "罗翔说刑法",
+        "videoOwnerChannelId": "UCYx0wztdyZQGOFPAGUFen2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ruTs67E58C9bR-6eqCwdXmgjUik",
+      "id": "UEw1UGRjaTNLakxOOXZlX0h3SU9tYUt2TXVsemVrVVB5NC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-07-20T02:50:55Z",
+        "channelId": "UCoZ_SFiEKv5PTGkfW2kJ-2Q",
+        "title": "【罗翔直播课堂】品读关于苏格拉底的《申辩论》",
+        "description": "期待下次和同学们在直播间再见。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ws7hsIRGcvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ws7hsIRGcvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ws7hsIRGcvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ws7hsIRGcvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Dingyi Kang",
+        "playlistId": "PL5Pdci3KjLN9ve_HwIOmaKvMulzekUPy4",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ws7hsIRGcvY"
+        },
+        "videoOwnerChannelTitle": "罗翔说刑法",
+        "videoOwnerChannelId": "UCYx0wztdyZQGOFPAGUFen2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XXr99wDuWXytXvELNSk3HKDddh0",
+      "id": "UEw1UGRjaTNLakxOOXZlX0h3SU9tYUt2TXVsemVrVVB5NC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-07-20T03:18:45Z",
+        "channelId": "UCoZ_SFiEKv5PTGkfW2kJ-2Q",
+        "title": "《追寻法治之光》罗永浩专访罗翔",
+        "description": "刑法学人罗翔 :\n所得皆非所配，但愿勉励前行。\n\n一期非常珍贵和真诚的对谈视频：#罗永浩 访谈#刑法学人罗翔   ——《追寻法治之光》。\n最近恶性案件频发，刑法离我们的生活有多远；人心的黑暗和光明会被什么激发；这个世界上究竟存不存在正义……他们在视频里深入地聊了聊这些问题，信息量很大。\n看完觉得内心平静。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oxYuRZqm8UY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oxYuRZqm8UY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oxYuRZqm8UY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oxYuRZqm8UY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Dingyi Kang",
+        "playlistId": "PL5Pdci3KjLN9ve_HwIOmaKvMulzekUPy4",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oxYuRZqm8UY"
+        },
+        "videoOwnerChannelTitle": "KoalaTV",
+        "videoOwnerChannelId": "UCCQzVxFRKs3NRU42Yn26-og"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jF7NPF-kA8tXJvTvCN8zwHKZMZ4",
+      "id": "UEw1UGRjaTNLakxOOXZlX0h3SU9tYUt2TXVsemVrVVB5NC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-07-20T06:24:43Z",
+        "channelId": "UCoZ_SFiEKv5PTGkfW2kJ-2Q",
+        "title": "世界会客厅｜罗翔：法治如何在不确定中寻找确定性",
+        "description": "人生唯一确定的就是不确定的人生，对于刚刚经历过2020年的人而言，可能更深体会到了这句话的涵义。讲者罗翔认为，法治是人类对于“相对确定”的追求。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wUwPsR_DGBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wUwPsR_DGBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wUwPsR_DGBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wUwPsR_DGBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Dingyi Kang",
+        "playlistId": "PL5Pdci3KjLN9ve_HwIOmaKvMulzekUPy4",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wUwPsR_DGBU"
+        },
+        "videoOwnerChannelTitle": "The Paper 澎湃新闻",
+        "videoOwnerChannelId": "UCzdgh34HFyN8v2k3ZZA5uNA"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 4,
+    "resultsPerPage": 5
+  }
+}
